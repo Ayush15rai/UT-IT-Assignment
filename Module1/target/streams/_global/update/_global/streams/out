@@ -1,0 +1,4 @@
+[warn] scalatest_2.12-3.3.0-SNAP3.jar no longer exists at /home/knoldus/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.3.0-SNAP3/scalatest_2.12-3.3.0-SNAP3.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating Module1...
+[debug] Done updating Module1
